@@ -21,7 +21,7 @@ const App = () => {
         },
       },
       palette: {
-        primary: { main: '#2d5955' },
+        primary: { main: '#28A71A' },
         danger: { main: '#525252' },
       },
     },

@@ -35,8 +35,8 @@ import logo from "../../assets/logo.png";
  	return (
  		<Typography variant="body2" color="textSecondary" align="center">
  			{"Copyright © "}
- 			<Link color="inherit" href="https://www.instagram.com/tiagoatual">
- 				Atual Pulse)
+ 			<Link color="inherit" href="https://www.instagram.com/multiconversa/">
+ 				Multiconversa
  			</Link>{" "}
 			{new Date().getFullYear()}
  			{"."}
